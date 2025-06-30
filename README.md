@@ -1,2 +1,3 @@
-# simple-text-generation
-This project about implementation Text Generation using Pre-Trained GPT-2 model in Streamlit App.
+# Simple Text Generation
+
+<p>This project involves implementing text generation using a Pre-Trained GPT-2 model in a Streamlit App.</p>
